@@ -52,6 +52,7 @@ for i in range(4):
     plt.title(titles[i])
     plt.xticks([])
     plt.yticks([])
+    
 plt.show()
 
 
